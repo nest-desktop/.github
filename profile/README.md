@@ -1,26 +1,5 @@
 # NEST Desktop
 
-**General:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-[![docs](https://img.shields.io/readthedocs/nest-desktop)](https://nest-desktop.readthedocs.io)
-[![license](https://img.shields.io/github/license/nest-desktop/nest-desktop)](https://github.com/nest-desktop/nest-desktop/blob/main/LICENSE)
-[![DOI](https://img.shields.io/badge/DOI-10.1523%2Feneuro.0274--21.2021-blue)](https://doi.org/10.1523/eneuro.0274-21.2021)
-
-**Docker Hub:** &nbsp; &nbsp;
-[![docker version](https://img.shields.io/docker/v/nestsim/nest-desktop/latest)](https://hub.docker.com/r/nestsim/nest-desktop)
-[![image size](https://img.shields.io/docker/image-size/nestsim/nest-desktop/latest)](https://hub.docker.com/r/nestsim/nest-desktop)
-[![docker pulls](https://img.shields.io/docker/pulls/nestsim/nest-desktop)](https://hub.docker.com/r/nestsim/nest-desktop)
-
-**GitHub:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-[![commit activity](https://img.shields.io/github/commit-activity/m/nest-desktop/nest-desktop)](https://github.com/nest-desktop/nest-desktop/commits/main)
-[![stars](https://img.shields.io/github/stars/nest-desktop/nest-desktop?style=social)](https://github.com/nest-desktop/nest-desktop/stargazers)
-[![forks](https://img.shields.io/github/forks/nest-desktop/nest-desktop?style=social)](https://github.com/nest-desktop/nest-desktop/network/members)
-
-**PyPI:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
-[![pypi](https://img.shields.io/pypi/v/nest-desktop?label=version)](https://pypi.org/project/nest-desktop/)
-[![downloads](https://img.shields.io/pypi/dm/nest-desktop)](https://pypi.org/project/nest-desktop/)
-
----
-
 NEST Desktop is a web-based application which provides a graphical user interface for [NEST Simulator](https://nest-simulator.org). With this easy-to-use tool, users can interactively construct neuronal networks and explore network dynamics.
 
 Advanced users often choose NEST Simulator: a prominent tool for spiking neuronal networks to measure network dynamics.
@@ -50,6 +29,29 @@ If you like to refer to a single version, you can find these also on Zenodo, e.g
 You can use the reference to the paper for NEST Desktop (DOI: [10.1523/ENEURO.0274-21.2021](https://doi.org/10.1523/ENEURO.0274-21.2021)) mentioned above as well, if that is more appropriate in the context of your reference.
 
 You will also find the exports for the citation managers on Zenodo and eNeuro.
+
+---
+
+**General:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[![docs](https://img.shields.io/readthedocs/nest-desktop)](https://nest-desktop.readthedocs.io)
+[![license](https://img.shields.io/github/license/nest-desktop/nest-desktop)](https://github.com/nest-desktop/nest-desktop/blob/main/LICENSE)
+[![DOI](https://img.shields.io/badge/DOI-10.1523%2Feneuro.0274--21.2021-blue)](https://doi.org/10.1523/eneuro.0274-21.2021)
+
+**Docker Hub:** &nbsp; &nbsp;
+[![docker version](https://img.shields.io/docker/v/nestsim/nest-desktop/latest)](https://hub.docker.com/r/nestsim/nest-desktop)
+[![image size](https://img.shields.io/docker/image-size/nestsim/nest-desktop/latest)](https://hub.docker.com/r/nestsim/nest-desktop)
+[![docker pulls](https://img.shields.io/docker/pulls/nestsim/nest-desktop)](https://hub.docker.com/r/nestsim/nest-desktop)
+
+**GitHub:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[![commit activity](https://img.shields.io/github/commit-activity/m/nest-desktop/nest-desktop)](https://github.com/nest-desktop/nest-desktop/commits/main)
+[![stars](https://img.shields.io/github/stars/nest-desktop/nest-desktop?style=social)](https://github.com/nest-desktop/nest-desktop/stargazers)
+[![forks](https://img.shields.io/github/forks/nest-desktop/nest-desktop?style=social)](https://github.com/nest-desktop/nest-desktop/network/members)
+
+**PyPI:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+[![pypi](https://img.shields.io/pypi/v/nest-desktop?label=version)](https://pypi.org/project/nest-desktop/)
+[![downloads](https://img.shields.io/pypi/dm/nest-desktop)](https://pypi.org/project/nest-desktop/)
+
+---
 
 ### License
 
