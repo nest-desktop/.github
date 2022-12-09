@@ -1,9 +1,5 @@
 # NEST Desktop
 
-<p>
-  <img src="https://raw.githubusercontent.com/nest-desktop/nest-desktop/latest/docs/_static/img/screenshots/start-page.png" />
-</p>
-
 **General:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [![docs](https://img.shields.io/readthedocs/nest-desktop)](https://nest-desktop.readthedocs.io)
 [![license](https://img.shields.io/github/license/nest-desktop/nest-desktop)](https://github.com/nest-desktop/nest-desktop/blob/main/LICENSE)
